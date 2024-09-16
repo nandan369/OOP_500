@@ -1,1 +1,1 @@
-This repo is for Lab3 assignement 
+This readme file is for LAB 3 assignement.
